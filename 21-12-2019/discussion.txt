@@ -1,0 +1,53 @@
+
+SDLC 
+Software engineering -> PressMan 
+
+
+1. Requirement Gathering 
+CTO / Manager 
+2. Analysis
+	a. Timeline 
+	b. resource / no of developers 
+	c. Skills -> hire 
+	d. Budgeting 
+	e. Techology 
+3. Design 
+	1. Database design -> ERD 
+	2. Prototype 
+		a. wireframing
+		b. prototype 
+	3. UML Diagram 
+		a. Class diagram
+		b. DFD diagram
+		c. Use cases
+
+4. Coding / development
+
+5. Testing & Deployment
+	QA
+
+Finance Application
+HR Application 
+
+Blog 
+Authors
+Story -> title, description , images....
+Draft -> admin -> publish 
+videos
+comments 
+
+SRS Document -> Software requirement specification
+Flowcharts 
+
+Sign off 
+
+
+
+
+reference book
+1. PHP5 by Bible 
+2. PHP Cookbook
+
+3. PHP Shams series 
+
+4. Wrox publisher php -> not rec

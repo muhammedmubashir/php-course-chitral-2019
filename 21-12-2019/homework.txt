@@ -1,0 +1,19 @@
+Cookbook Condition 
+Condition
+Loops 
+1. excersice 
+2. Switch Case
+3. Programs
+	a. 
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
+	b. Prime number 1-100
+		2,3,5,7,11,13,17,23, 29, 31, 37....
+	c. Fabanocii Series upto 100
+		1,1,2,3,5,8,13,21,34,......	
+
+functions, array , associative array
+

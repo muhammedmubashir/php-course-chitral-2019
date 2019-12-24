@@ -1,0 +1,32 @@
+PHP Env
+
+1. Windows 
+
+WAMP SERVER 
+windows Apache Mysql PHP 
+Google 
+
+
+2. Editor 
+Sublime text 3.0
+
+Netbeans
+Komodo
+PHP Designer
+Dreamweaver
+Notepad++
+Programmers notepad
+
+
+3. mysql IDE
+By Defualt : 
+Web based
+phpmyadmin
+mywebsql
+
+
+mysql workbench
+sql toad
+sql yog
+Hedi SQL
+
