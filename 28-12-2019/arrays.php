@@ -38,10 +38,10 @@ $array = [10,20,30,40,50];
 // echo "<pre>";
 // print_r($array);
 // echo "</pre>";
-foreach ($array as $value) 
-{
-	echo $value."<br>";
-}
+// foreach ($array as $value) 
+// {
+// 	echo $value."<br>";
+// }
 
 foreach ($array as $index => $value) 
 {
