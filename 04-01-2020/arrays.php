@@ -73,4 +73,5 @@ else
 {
 	echo "Tariq is absent";
 }
+
 ?>
