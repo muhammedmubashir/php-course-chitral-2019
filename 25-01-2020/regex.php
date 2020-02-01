@@ -129,4 +129,6 @@ $pattern = "/^[a-zA-Z]+[0-9]*@[a-zA-Z]{2,}\.[a-z]{2,3}(\.[a-z])*/";
 // password -> Captital letter number special char 
 
 
+// Next class working FORM, SESSION & Cookies 
+
 ?>
