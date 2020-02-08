@@ -4,9 +4,25 @@
 //load balance , performance boost
 $total_no_of_products 	= 73;
 $product_per_page 		= 10;
-$no_of_pages 			= ceil($total_no_of_products / $product_per_page);
-echo $no_of_pages;
 
+$no_of_pages 			= ceil($total_no_of_products / $product_per_page);
+// echo $no_of_pages;
+
+$page_no_from_url = intval($_GET['page']);
+// echo $page_no_from_url;
+
+for ($product_no=1; $product_no <= $total_no_of_products; $product_no++) 
+{ 
+	echo "Product".$product_no."<br>";
+}
+
+for($page=1; $page <=$no_of_pages; $page++)
+{
+	echo "<a href=?page=$page>".$page."</a> ";
+}
+
+// /pagination.php?page=1
+// /pagination.php?page=8
 
 // .5 round -> upper 
 // 7.5 round 8
@@ -36,16 +52,18 @@ echo $no_of_pages;
 // Password 
 
 // verify -> use static values
-$email = "admin@admin.com";
-$password = "123456";
-if success 
-{
-	Home page redirect 
-	how to redirect php page -> Google 
-}
-else
-{
-	redirect login page
-}
+// $email = "admin@admin.com";
+// $password = "123456";
+// if success 
+// {
+// 	Home page redirect 
+// 	how to redirect php page -> Google 
+// }
+// else
+// {
+// 	redirect login page
+// }
+
+// // Git 
 
 ?>
