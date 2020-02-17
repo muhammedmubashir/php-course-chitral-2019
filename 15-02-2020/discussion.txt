@@ -1,0 +1,107 @@
+Database designing
+
+Application development 
+
+SDLC 
+
+1. req
+2. analysis
+3. Design
+	DB ERD
+	Prototype -> wireframe
+	flowchart
+	....
+4. coding
+5. testing & deployment
+
+
+
+blog website 
+author
+approve
+
+write blog 
+publish
+approve 
+
+comments
+name
+comments
+
+approve
+
+
+DB Name
+
+DB tables 
+	col
+
+
+
+
+HR -> HUman resource
+employee info
+employee designation
+employee salary
+
+2010
+JR Software engineer -> 10k
+2012 
+software engineer -> 40k
+2013
+software engineer -> 45k
+2014
+sr software engineer -> 55k
+2014
+sr software engineer -> 65k august
+2020
+Teamlead Software engineer -> 150k
+
+
+
+
+
+store inventory
+
+payroll
+tourism 
+hotel 
+hotel room
+amenties
+heater
+ac
+view
+room type
+boarding
+	with BF
+	half board
+	full board
+pricing
+adults
+child
+
+
+
+tourism accomodation -> DB
+hotel
+rest house
+resort
+guest house
+motel
+
+hotel
+-> room type
+	standard room
+	deluxe
+	business class
+
+hotel
+room images
+amenties
+
+
+
+MYSQL -> PHP connect
+
+
+
