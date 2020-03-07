@@ -1,0 +1,82 @@
+
+Relational DB
+Microsoft SQL
+1. MySQL is relational db
+Oracle 
+DB 2
+.....
+
+
+2. Non Relational DB (NoSQL)
+Monogo DB
+SQL lite 
+Redis
+DOCument DB
+
+
+
+Primary Key
+Foreign Key -> 
+
+
+
+MySQL -> IDE
+phpMyAdmin -> web based
+MyWebSQL -> Web based
+
+SQL Toad
+Mysql workbench
+mysql yog
+.....
+
+
+
+
+Encoding types -> Collation type
+Multi Languages
+
+
+
+
+String
+
+Name
+
+Taha
+
+
+Char 			20	  -> space occup -> 20 Bytes
+VarChar 		20    -> space cap 	 -> 4 Bytes
+Text 			null  -> space 		 -> 4 bytes
+
+
+
+Blob
+
+profile author 100 -> 10mb profile picture  1000 MB 
+text 10kb 
+pdf
+doc
+audio
+video
+image
+
+
+
+MySQL Table engine 
+
+
+InnoDB
+
+MyISAM 
+
+
+SQL 
+
+group by
+order by
+limit
+join
+
+phpmyadmin
+root
